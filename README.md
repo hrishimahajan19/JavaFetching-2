@@ -1,6 +1,6 @@
-<p align="center">
+
   <h1>My Awesome Project</h1>
-</p> 
+
  _ _ _ 
 ## LANGUAGE UESD
 > [Java](https://www.oracle.com/java/)
