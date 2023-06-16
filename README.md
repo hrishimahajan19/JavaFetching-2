@@ -8,3 +8,7 @@ _ _ _
 ## framework used
 > [Spring Boot](https://spring.io/projects/spring-data)
 _ _ _
+## Class Flow
+* Controller package
+  * controller class
+   
