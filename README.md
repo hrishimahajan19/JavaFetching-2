@@ -14,11 +14,11 @@ _ _ _
 1. service 1
 1. repo 2
 1. model 3
-* <kbd style="background-color: blue; padding: 20px; border-radius: 10px;">
+* <kbd style="background-color: blue; padding: 10px; border-radius: 5px;">
   <b>Framework</b>  
 </kbd>
 
-  <kbd style="background-color: red; padding: 20px; border-radius: 10px;">
+  <kbd style="background-color: red; padding: 10px; border-radius: 5px;">
   <b>Spring Boot</b>  
 </kbd>
 
