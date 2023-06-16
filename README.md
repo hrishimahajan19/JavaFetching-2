@@ -1,8 +1,6 @@
 # project
 # LANGUAGE UESD
-- JAVA
+> [Java](https://www.oracle.com/java/)
 _ _ _
 # framework used
-- springBoot
-
-> [Java](https://www.oracle.com/java/)
+> [Spring Boot](https://spring.io/projects/spring-data)
