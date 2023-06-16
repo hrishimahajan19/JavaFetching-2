@@ -11,4 +11,7 @@ _ _ _
 ## Class Flow
 * Controller package
   * controller class
+1. service
+2. repo
+3. model
    
